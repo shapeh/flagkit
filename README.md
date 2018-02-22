@@ -6,13 +6,8 @@ styles and images to easily allow the awesome flagkit svgs to be used on the web
 
 ## Get Started
 
-### Bundler (webpack, browserify, parcel, etc...)
+To get started import the ```node_modules/flagkit-web/styles/flagkit.css``` file and copy the ```node_modules/flagkit-web/svgs``` folder into your bundle.
 
-To get started import the flags.css file and copy the svgs folder into your bundle.
-
-### No Bundler
-
-If you are not using a bundler simply create link pointing to the ```node_modules/flagkit-web/styles/flags.css``` file. Then copy the ```node_modules/flagkit-web/svgs``` folder into your dist folder.
 
 ## Usage
 
