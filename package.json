@@ -1,6 +1,6 @@
 {
   "name": "flagkit-web",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "styles and images to easily allow the awesome flagkit svgs to be used on the web",
   "main": "index.js",
   "scripts": {
