@@ -1,5 +1,5 @@
 # flagkit-web
-styles and images to easily allow the awesome flagkit svgs to be used on the web
+Styles and images in SVG format to easily allow the awesome flagkit svgs to be used on the web.
 
 ## Install
 ```npm i flagkit-web```
@@ -29,4 +29,4 @@ Being as these are SVGs you can size them as you see fit. I just added these for
 
 ## Sass
 
-This lib was written using sass and as such the original sass mixins are available via ```node_modules/flagkit-web/styles/flags.scss``` if you would like to create your own .css file.
+This lib was written using Sass and as such the original sass mixins are available via ```node_modules/flagkit-web/styles/flags.scss``` if you would like to create your own .css file.
