@@ -13,15 +13,17 @@ To get started import the ```node_modules/flagkit-web/styles/flagkit.css``` file
 
 To get flag styles you need to add the flag class to your html element, like so:
 
-```<span class="flag"></span>```
+```<span class="fk"></span>```
 
 To get the flag to appear you need to add the country code in uppercase, like so:
 
-```<span class="flag US"></span>```
+```<span class="fk fk-us"></span>```
 
 ### Sizes
 
 By default the flag size is 16x16px however by adding the class ```medium``` you will get 24x24 and ```large``` will up it to 32x32.
+
+```<span class="fk medium fk-us"></span>```
 
 Being as these are SVGs you can size them as you see fit. I just added these for convenience.
 
