@@ -1,9 +1,9 @@
 @import './flags.scss';
 
 .fk {
-	@include flag-background('16');
-	&.medium { @include flag-background('24') }
-	&.large { @include flag-background('32') }
+	@include flag-background('15','21');
+	&.medium { @include flag-background('24','24') }
+	&.large { @include flag-background('32','32') }
 }
 
 
